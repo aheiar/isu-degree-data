@@ -1,0 +1,14 @@
+{
+  "catalog_year": "2023-2024",
+  "major": "Software Engineering",
+  "plan": [
+    { "term": "Fall 1", "courses": ["SE 1850", "MATH 165", "ENGL 150"] },
+    { "term": "Spring 1", "courses": ["SE 1860", "COM S 227", "MATH 166"] },
+    { "term": "Fall 2", "courses": ["COM S 228", "SE 3090"] },
+    { "term": "Spring 2", "courses": ["SE 3170", "SE 3190"] },
+    { "term": "Fall 3", "courses": ["SE 3390", "SE 3420"] },
+    { "term": "Spring 3", "courses": ["SE 3620", "SE 3290"] },
+    { "term": "Fall 4", "courses": ["SE 4090", "SE 4910"] },
+    { "term": "Spring 4", "courses": ["SE 4920"] }
+  ]
+}
