@@ -1,0 +1,31 @@
+{
+  "catalog_year": "2023-2024",
+  "major": "Software Engineering",
+  "courses": [
+    { "id": "SE 1010", "title": "Software Engineering Orientation", "credits": 1, "prereqs": [], "category": "Core" },
+    { "id": "SE 1660", "title": "Careers in Software Engineering", "credits": 1, "prereqs": [], "category": "Core" },
+    { "id": "SE 1850", "title": "Problem Solving in Software Engineering", "credits": 3, "prereqs": [], "category": "Core" },
+    { "id": "SE 1860", "title": "Problem Solving in Software Engineering II", "credits": 3, "prereqs": ["SE 1850"], "category": "Core" },
+    { "id": "SE 3090", "title": "Software Development Practices", "credits": 3, "prereqs": ["COM S 228"], "category": "Core" },
+    { "id": "SE 3170", "title": "Introduction to Software Testing", "credits": 3, "prereqs": ["SE 3090"], "category": "Core" },
+    { "id": "SE 3190", "title": "Construction of User Interfaces", "credits": 3, "prereqs": ["COM S 228"], "category": "Core" },
+    { "id": "SE 3290", "title": "Software Project Management", "credits": 3, "prereqs": ["SE 3090"], "category": "Core" },
+    { "id": "SE 3390", "title": "Software Architecture and Design", "credits": 3, "prereqs": ["SE 3090"], "category": "Core" },
+    { "id": "SE 3420", "title": "Principles of Programming Languages", "credits": 3, "prereqs": ["COM S 228"], "category": "Core" },
+    { "id": "SE 3620", "title": "Object-Oriented Analysis and Design", "credits": 3, "prereqs": ["SE 3390"], "category": "Core" },
+    { "id": "SE 4090", "title": "Software Requirements Engineering", "credits": 3, "prereqs": ["SE 3090"], "category": "Core" },
+    { "id": "SE 4120", "title": "Formal Methods in Software Engineering", "credits": 3, "prereqs": ["SE 3390"], "category": "Elective" },
+    { "id": "SE 4130", "title": "Program Analysis", "credits": 3, "prereqs": ["SE 3390"], "category": "Elective" },
+    { "id": "SE 4160", "title": "Software Evolution and Maintenance", "credits": 3, "prereqs": ["SE 3620"], "category": "Elective" },
+    { "id": "SE 4170", "title": "Software Testing", "credits": 3, "prereqs": ["SE 3170"], "category": "Elective" },
+    { "id": "SE 4190", "title": "Software Tools for Large Scale Data Analysis", "credits": 3, "prereqs": ["COM S 228"], "category": "Elective" },
+    { "id": "SE 4210", "title": "Software Analysis and Verification for Safety and Security", "credits": 3, "prereqs": ["SE 3390"], "category": "Elective" },
+    { "id": "SE 4220", "title": "Cloud Computing - Software Development", "credits": 3, "prereqs": ["SE 3090"], "category": "Elective" },
+    { "id": "SE 4230", "title": "Software Refactoring", "credits": 3, "prereqs": ["SE 3620"], "category": "Elective" },
+    { "id": "SE 4390", "title": "Intelligent Software Design: Theory and Practice", "credits": 3, "prereqs": ["SE 3390"], "category": "Elective" },
+    { "id": "SE 4400", "title": "Principles and Practice of Compiling", "credits": 3, "prereqs": ["COM S 331"], "category": "Elective" },
+    { "id": "SE 4900", "title": "Independent Study", "credits": 1, "prereqs": [], "category": "Elective" },
+    { "id": "SE 4910", "title": "Senior Design Project I and Professionalism", "credits": 3, "prereqs": ["SE 3090", "SE 3390"], "category": "Core" },
+    { "id": "SE 4920", "title": "Senior Design Project II", "credits": 3, "prereqs": ["SE 4910"], "category": "Core" }
+  ]
+}
