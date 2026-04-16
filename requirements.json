@@ -1,0 +1,17 @@
+{
+  "catalog_year": "2023-2024",
+  "major": "Software Engineering",
+  "requirements": {
+    "core_courses": [
+      "SE 1010", "SE 1660", "SE 1850", "SE 1860",
+      "SE 3090", "SE 3170", "SE 3190", "SE 3290",
+      "SE 3390", "SE 3420", "SE 3620", "SE 4090",
+      "SE 4910", "SE 4920"
+    ],
+    "elective_rules": {
+      "se_electives": 3,
+      "cpre_coms_electives": 2
+    },
+    "minimum_total_credits": 125
+  }
+}
