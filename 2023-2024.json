@@ -1,5 +1,5 @@
+[
 {
-  "catalog_year": "2023-2024",
   "major": "Software Engineering",
   "courses": [
     { "id": "SE 1010", "title": "Software Engineering Orientation", "credits": 1, "prereqs": [], "category": "Core" },
@@ -28,4 +28,11 @@
     { "id": "SE 4910", "title": "Senior Design Project I and Professionalism", "credits": 3, "prereqs": ["SE 3090", "SE 3390"], "category": "Core" },
     { "id": "SE 4920", "title": "Senior Design Project II", "credits": 3, "prereqs": ["SE 4910"], "category": "Core" }
   ]
+},
+{
+  "major": "Computer Science",
+  "courses": [
+    { "id": "Placeholder1", "title": "Placeholder title", "credits": 1, "prereqs": [], "category": "Core" }
+  ] 
 }
+]
